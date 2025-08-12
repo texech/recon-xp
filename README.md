@@ -27,7 +27,7 @@ This isn't just another Wayback scraper.
 Tested on **Python 3** across Ubuntu/Kali/Windows.
 
 ```bash
-git clone 
+git clone https://github.com/texech/recon-xp
 ````
 ```bash
 cd recon-xp
